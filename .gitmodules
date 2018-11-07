@@ -7,3 +7,6 @@
 [submodule "cq_technical_features"]
 	path = cq_technical_features
 	url = git@bitbucket.org:creativiquadrati/cq_technical_features.git
+[submodule "cq_products_10"]
+	path = cq_products_10
+	url = git@bitbucket.org:creativiquadrati/cq_products_10.git
