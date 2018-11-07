@@ -4,3 +4,6 @@
 [submodule "cq_crm_10"]
 	path = cq_crm_10
 	url = git@bitbucket.org:creativiquadrati/cq_crm_10.git
+[submodule "cq_technical_features"]
+	path = cq_technical_features
+	url = git@bitbucket.org:creativiquadrati/cq_technical_features.git
