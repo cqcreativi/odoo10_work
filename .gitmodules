@@ -1,0 +1,3 @@
+[submodule "cq_anacli_10"]
+	path = cq_anacli_10
+	url = git@bitbucket.org:creativiquadrati/cq_anacli_10.git
