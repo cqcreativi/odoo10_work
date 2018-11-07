@@ -28,3 +28,6 @@
 [submodule "web_export_view"]
 	path = web_export_view
 	url = git@bitbucket.org:creativiquadrati/web_export_view_10.git
+[submodule "account_invoice_entry_date"]
+	path = account_invoice_entry_date
+	url = git@bitbucket.org:creativiquadrati/account_invoice_entry_date_10.git
