@@ -13,3 +13,6 @@
 [submodule "cq_stock_10"]
 	path = cq_stock_10
 	url = git@bitbucket.org:creativiquadrati/cq_stock_10.git
+[submodule "cq_sales_10"]
+	path = cq_sales_10
+	url = git@bitbucket.org:creativiquadrati/cq_sales_10.git
