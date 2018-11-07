@@ -16,3 +16,15 @@
 [submodule "cq_sales_10"]
 	path = cq_sales_10
 	url = git@bitbucket.org:creativiquadrati/cq_sales_10.git
+[submodule "cq_purchase_10"]
+	path = cq_purchase_10
+	url = git@bitbucket.org:creativiquadrati/cq_purchase_10.git
+[submodule "cq_invoice_10"]
+	path = cq_invoice_10
+	url = git@bitbucket.org:creativiquadrati/cq_invoice_10.git
+[submodule "cq_invoice_forza_numero_10"]
+	path = cq_invoice_forza_numero_10
+	url = git@bitbucket.org:creativiquadrati/cq_invoice_forza_numero_10.git
+[submodule "web_export_view"]
+	path = web_export_view
+	url = git@bitbucket.org:creativiquadrati/web_export_view_10.git
