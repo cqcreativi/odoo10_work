@@ -33,7 +33,7 @@
 	url = git@bitbucket.org:creativiquadrati/account_invoice_entry_date_10.git
 [submodule "l10n_it_fiscalcode"]
 	path = l10n_it_fiscalcode
-	url = git@bitbucket.org:creativiquadrati/l10n_it_fiscalcode_10
+	url = git@bitbucket.org:creativiquadrati/l10n_it_fiscalcode_10.git
 [submodule "l10n_it_ddt"]
 	path = l10n_it_ddt
 	url = git@bitbucket.org:creativiquadrati/cq_ddt10.git
