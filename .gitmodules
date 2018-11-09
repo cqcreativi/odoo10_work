@@ -37,3 +37,6 @@
 [submodule "l10n_it_ddt"]
 	path = l10n_it_ddt
 	url = git@bitbucket.org:creativiquadrati/cq_ddt10.git
+[submodule "account_payment_term_extension"]
+	path = account_payment_term_extension
+	url = git@bitbucket.org:creativiquadrati/account_payment_term_extension.git
